@@ -7,11 +7,11 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/arash-rezaeinezhad-32000e194">
+  <a href="https://linkedin.com/in/arash-rezaeinezhad-3200b6194">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://scholar.google.com/citations?user=web_NoAAAJ&hl=en&oi=sra">
+  <a href="https://scholar.google.com/citations?user=web__SoAAAAJ&hl=en&oi=sra">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
   &nbsp;
