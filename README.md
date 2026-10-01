@@ -24,24 +24,6 @@
 ---
 
 
-<p align="left">
-  <a href="https://linkedin.com/in/arash-rezaeinezhad-3200b6194">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://scholar.google.com/citations?user=web__SoAAAAJ&hl=en&oi=sra">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ArashRezaeinezhad9621">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="mailto:arashrezaeinezhad9621@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 ## 🔬 About Me
 
 Research assistant with experience in **robotics, visual-inertial odometry, and deep learning**, focusing on sensor fusion and optimization for localization systems. Strong background in implementing real-time and simulation-based robotic systems using ROS, Gazebo, and machine learning frameworks.
