@@ -159,9 +159,9 @@ Research assistant with experience in **robotics, visual-inertial odometry, and 
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: [arash-rezaeinezhad](https://www.linkedin.com/in/arash-rezaeinezhad-32000e194)
+- 💼 LinkedIn: [arash-rezaeinezhad](https://linkedin.com/in/arash-rezaeinezhad-3200b6194)
 - 💻 GitHub: [ArashRezaeinezhad9621](https://github.com/ArashRezaeinezhad9621)
-- 📚 Google Scholar: [Profile](https://scholar.google.com/citations?user=web_NoAAAJ&hl=en&oi=sra)
+- 📚 Google Scholar: [Profile](https://scholar.google.com/citations?user=web__SoAAAAJ&hl=en&oi=sra)
 - 📧 Email: arashrezaeinezhad9621@gmail.com
 
 ---
