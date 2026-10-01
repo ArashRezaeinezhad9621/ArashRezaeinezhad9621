@@ -1,108 +1,168 @@
 # Hi there 👋, I'm Arash Rezaeinezhad
 
-🚀 Robotics & AI Researcher  
-🔬 Visual-Inertial Odometry • SLAM • Sensor Fusion • Deep Learning  
+🚀 **Robotics & AI Researcher | Research Assistant**  
+🔬 Visual-Inertial Odometry • SLAM • Sensor Fusion • Deep Learning for Robotics
 
 ---
 
 ## 🔬 About Me
-I am a research assistant working in the field of **robotics and artificial intelligence**, with a focus on:
 
+Research assistant with experience in **robotics, visual-inertial odometry, and deep learning**, focusing on sensor fusion and optimization for localization systems. Strong background in implementing real-time and simulation-based robotic systems using ROS, Gazebo, and machine learning frameworks.
+
+**Research Interests:**
 - Visual-Inertial Odometry (VIO)
-- Sensor Fusion for localization systems
-- SLAM and autonomous navigation
-- Deep learning for robotic perception
-- Optimization techniques for improving model performance
-
-I am passionate about building **real-world robotic systems**, combining classical methods with learning-based approaches.
+- Deep Learning for Robotics
+- Sensor Fusion
+- Autonomous Navigation
+- SLAM
+- Computer Vision
 
 ---
 
 ## 🧠 Research Experience
 
-**Research Assistant**  
-*Iran University of Science and Technology (2023–2025)*  
+**Robotics Engineer – Autonomous Ground Robot Systems**  
+*Binafanj, Iran University of Science and Technology* | April 2026 – Present  
+- Developed and benchmarked SLAM/VIO pipelines for ground robots integrating RealSense D435i camera and an onboard flight-grade controller  
+- Tested on a custom dataset collected with Jetson Orin Nano and D435i  
+- Implemented real-time obstacle avoidance and person tracking for robust autonomous navigation  
+- Integrated and tested perception systems on Jetson Orin Nano for onboard robot control  
+- Built and validated Gazebo simulation environments for ground robot navigation pipelines  
+- Enhanced visual-inertial odometry and sensor fusion for civilian applications (inspection and mapping)
 
-- Developed deep learning-based VIO models  
-- Designed sensor fusion pipelines (camera + IMU)  
-- Improved localization accuracy using optimization techniques  
-- Evaluated systems in simulation and real-world environments  
+**Research Assistant – Computer Vision for Robotics**  
+*Intelligent GPS Receiver Research Laboratory, Iran University of Science and Technology* | Sep 2025 – Present  
+- Developing a visual-inertial GPS odometry system for low-power embedded systems using Luckfox Pro Max and SC3336 3MP Camera  
+- Working with ORB-SLAM3 to improve robustness and reduce drift in visual odometry systems  
+- Studying deep learning-based odometry models such as TartanVO and DytanVO for pose estimation  
+- Exploring visual–inertial sensor fusion methods for improved localization accuracy  
+- Running simulation-based experiments and benchmarking modern VO pipelines
+
+**Research Assistant (Electronics Engineer)**  
+*Flow Measurement Research Institute, Iran University of Science and Technology* | May 2023 – May 2025  
+- Conducted research on sensor fusion and localization systems  
+- Developed machine learning-based models for visual-inertial odometry  
+- Implemented and evaluated deep learning architectures to improve localization accuracy  
+- Applied optimization techniques to enhance model performance
 
 ---
 
 ## 🤖 Industry Experience
 
-**Robotics Engineer – Autonomous Disinfection Robot** *(2022–2023)*  
-- Developed autonomous navigation using ROS  
-- Integrated IMU, LiDAR, and vision sensors  
-- Built and tested simulation environments in Gazebo  
+**Robotics Engineer – Autonomous Disinfection Robot**  
+*Idehkavan Sanat Pardis (Pardis Technology Park)* | Aug 2022 – Mar 2023  
+- Designed and developed an autonomous hospital disinfection robot  
+- Implemented navigation and control algorithms using ROS  
+- Built and tested robotic simulations in Gazebo  
+- Integrated multiple sensors including IMU, LiDAR, and cameras
 
-**Software Engineer – Vive Tennis Robotics** *(2021)*  
-- Designed odometry system using IMU + encoder fusion  
-- Implemented Kalman Filter for localization  
-- Simulated robotic environments for validation  
+**Software Engineer – Odometry & Sensor Fusion**  
+*Vive Tennis Robotics* | Jun 2021 – Nov 2021  
+- Developed odometry system using IMU and encoder sensor fusion  
+- Implemented Kalman Filter for localization in simulation  
+- Modeled robotic environment in Gazebo for validation
+
+**Electronics Engineer (Internship)**  
+*Bartar Andishan Sanabad* | Jun 2017 – Dec 2017  
+- Designed RFID-based smart door lock system  
+- Implemented embedded systems using microcontrollers
 
 ---
 
 ## 📄 Publications
 
-- *A Modular Benchmark for Plug-and-Play Optical Flow in Cross-Domain Visual Odometry* (Under Review)  
-- *Metric-Scale Monocular SLAM via Lightweight Depth-Integrated and PSO-Calibrated ORB-SLAM3* (Under Review)  
+- **Metric-Scale Monocular SLAM via Lightweight Depth-Integrated and PSO-Calibrated ORB-SLAM3**  
+  *Ain Shams Engineering Journal (2026)* — [DOI](https://doi.org/10.1016/j.asej.2026.104396)
+
+- **A Modular Benchmark for Plug-and-Play Optical Flow in Cross-Domain Visual Odometry**  
+  *Under Revision at Alexandria Journal*
+
+- **SwitchSLAM: Ensemble-Uncertainty-Aware Switchable Constraints for Hybrid Learned–Classical Stereo-Depth-Inertial SLAM**  
+  *Under review at Measurement (Elsevier)*
 
 ---
 
 ## 🔬 Selected Projects
 
-### 📍 Vision–Inertial Odometry (Deep Learning)
-- Sensor fusion of camera and IMU using neural networks  
-- Evaluated in simulation environments  
+### 📍 Visual–Inertial Odometry using Deep Learning (Master’s Thesis)
+- Designed and implemented a deep learning-based VIO system integrating monocular camera and IMU data  
+- Developed neural architectures (CNN/RNN-based) for end-to-end sensor fusion and 6-DoF pose estimation  
+- Built a custom Gazebo-based simulation pipeline to generate synchronized multimodal datasets  
+- Evaluated performance using Absolute Trajectory Error (ATE)  
+- Achieved consistent trajectory estimation with reduced drift compared to single-modality baselines  
+- Full implementation available on GitHub
 
-### 🤖 Autonomous Navigation Systems
-- Multi-sensor robot simulation (Gazebo)  
-- Hospital and tennis court environments  
+### 🤖 Autonomous Disinfection Robot
+- Designed a fully autonomous mobile robot for hospital disinfection applications  
+- Implemented a complete ROS-based navigation stack (SLAM, localization, path planning, and control)  
+- Integrated multi-sensor system (LiDAR, IMU, RGB camera) for robust perception  
+- Built realistic hospital-like simulation environments in Gazebo  
+- Achieved reliable autonomous navigation with low drift over long trajectories
 
-### 📡 Sensor Fusion with Kalman Filter
-- Wheel odometry + IMU integration  
-- Tested in both simulation and real-world setups  
+### 📡 Sensor Fusion using Kalman Filter
+- Implemented and validated wheel odometry + IMU fusion  
+- Tested in both simulation and real-world scenarios
 
 ---
 
 ## ⚙️ Technical Skills
 
 **Programming:**  
-`Python` `C++` `C`  
+`Python` `C++` `C` `VHDL` `Verilog`
 
 **AI / Machine Learning:**  
-`PyTorch` `TensorFlow` `CNN` `LSTM` `GRU`  
+`PyTorch` `TensorFlow` `CNNs` `RNNs (LSTM, GRU)` `Transfer Learning`
 
-**Robotics:**  
-`ROS` `Gazebo` `SLAM` `Sensor Fusion`  
+**Robotics & Simulation:**  
+`ROS 2` `Gazebo` `RViz` `SLAM` `Sensor Fusion` `UGV platforms` `Jetson Orin Nano` `RealSense D435i`
 
-**Tools:**  
-`OpenCV` `NumPy` `MATLAB`  
+**Tools & Libraries:**  
+`OpenCV` `NumPy` `Pandas` `Matplotlib`
 
-**Hardware:**  
-`STM32` `AVR` `Jetson Nano`  
+**Embedded Systems:**  
+`STM32` `AVR` `Jetson Nano` `Jetson Orin Nano`
+
+**Other Tools:**  
+`MATLAB` `Altium` `Proteus` `ModelSim`
 
 ---
 
 ## 🏆 Achievements
+
 - 🥈 2nd Rank – M.Sc. in Electronics Engineering  
-- 🚁 Rahneshan National Competition (Drone Localization Team Member)  
+- 🚁 Member of First Team – Rahneshan National Competition (Ground Robot-based Localization)
+
+---
+
+## 🎓 Education
+
+**M.Sc. in Electronic Integrated Circuits**  
+*Iran University of Science and Technology, Tehran* | Sep 2019 – May 2022  
+- Thesis: Vision and INS Sensor Fusion Based on AI  
+- GPA: 3.56 / 4.0
+
+**B.Sc. in Electrical Engineering (Electronics)**  
+*Ferdowsi University of Mashhad* | Sep 2014 – Feb 2019  
+- Project: PI Metal Detector  
+- GPA: 3.03 / 4.0
 
 ---
 
 ## 🎯 Current Focus
-- Learning-based Visual-Inertial Odometry  
-- Improving model accuracy (low MSE optimization)  
-- Research and publication  
+
+- SLAM / VIO pipelines on ground robots (Jetson Orin Nano + RealSense D435i)
+- Learning-based Visual-Inertial Odometry and advanced sensor fusion
+- Improving robustness and reducing drift in modern VO systems (ORB-SLAM3, TartanVO, DytanVO)
+- Research and publication
 
 ---
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/arash-rezaeinezhad  
-- 💻 GitHub: https://github.com/ArashRezaeinezhad9621  
+- 💼 LinkedIn: [arash-rezaeinezhad](https://www.linkedin.com/in/arash-rezaeinezhad-32000e194)
+- 💻 GitHub: [ArashRezaeinezhad9621](https://github.com/ArashRezaeinezhad9621)
+- 📚 Google Scholar: [Profile](https://scholar.google.com/citations?user=web_NoAAAJ&hl=en&oi=sra)
+- 📧 Email: arashrezaeinezhad9621@gmail.com
 
 ---
 
